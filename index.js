@@ -3,7 +3,7 @@ let nome = "Mestre das Armas"
 let nivel = 9999
 let xp = ""
 
-//Operador  if
+//Operador  if, else if
 
 if(nivel <= 1000){
 console.log(xp = "ferro")
